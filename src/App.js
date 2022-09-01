@@ -6,14 +6,13 @@ function App() {
     return (
         <div>
             <Navbar/>
-            <div className="container">
+            <header className="App-header">
                 <span className="align-middle">
-                    <p>&nbsp;</p>
                 <p className="text-center">
                     Edit <code>src/App.js</code> and save to reload.
                 </p>
                 </span>
-            </div>
+            </header>
         </div>);
 }
 
